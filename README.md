@@ -2,7 +2,8 @@
 ## Hi there! I’m Griffin, a passionate and driven Software Development & Design student in my final year at Conestoga College. With hands-on experience in IT, software development, digital marketing, and business management, I'm currently building my portfolio while working on exciting projects. Follow along as I continue to develop my skills and grow my start-up!
 ***
 
-[![Griffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMurphy01)](https://github.com/GMurphy01/github-readme-stats)  ![Leetcode Stats](https://leetcard.jacoblin.cool/GriffMurphy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMurphy01&layout=compact)](https://github.com/GMurphy01/github-readme-stats) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/GriffMurphy)
 
 
 <div id="badges">
