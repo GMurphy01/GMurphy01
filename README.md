@@ -3,7 +3,7 @@
 ***
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMurphy01&layout=compact&v=2" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMurphy01&layout=compact&v=3" style="width: 49%;" />
   <img src="https://leetcard.jacoblin.cool/GriffMurphy" style="width: 49%;" />
 </div>
 
